@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomViewKotlin</string>
+    <string name="type_something">Type something...</string>
+    <string name="callback">Callback</string>
+</resources>
